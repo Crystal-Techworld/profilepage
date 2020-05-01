@@ -20,7 +20,7 @@ body{
 
 h1{
     text-align: left;
-    padding: 10px 60px;
+    padding: 10px 80px;
     margin: 0px;
 }
 h2{
@@ -85,7 +85,7 @@ a:hover {
 }
 
 #closing{
-    background-color: rgb(183, 241, 191);
+    background-color: rgb(220, 241, 222);
     margin: 0px;
     margin-bottom: 0px;
     width: 100%;
@@ -129,7 +129,7 @@ input{
     margin-bottom: 10px
 }
 #footer{
-    background-color: wheat;
+    background-color: rgb(4, 77, 58);
 }
 #social{
     text-align: center;
